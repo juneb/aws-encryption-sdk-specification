@@ -3,18 +3,14 @@
 ## Overview
 
 This repository contains the AWS Encryption SDK Specification.  
-The primary goal of this specification is to define a standard,
-language independent, description of the AWS Encryption SDK features.  
-It serves as the source of truth for the features that make up the AWS Encryption SDK
-and the details of their behavior.
-It is intended to promote consistency and interoperability
-across implementations of the AWS Encryption SDK.  
-This GitHub project is also intended to track issues and feature requests,
-and to collect feedback pertaining to the AWS Encryption SDK.
+
+This specification defines a standard, language independent description of the features in the AWS Encryption SDK. It serves as the single source of truth for the features that comprise the AWS Encryption SDK and the details of their behavior. It is intended to promote consistency and interoperability across implementations of the AWS Encryption SDK.  
+
+This GitHub project is also intended to track issues and feature requests and to collect feedback about the AWS Encryption SDK.
 
 ### Current Implementations
 
-Below is the list of current implementation of this specification:
+The following language implementations of the AWS Encryption SDK implement this specification:
 
 - [C](https://github.com/aws/aws-encryption-sdk-c)
 - [Java](https://github.com/aws/aws-encryption-sdk-java)
